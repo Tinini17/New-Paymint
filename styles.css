@@ -382,7 +382,7 @@ p { color: var(--text-secondary); }
   height: 200px;
   background: linear-gradient(135deg, #0f2418 0%, #1a3d2a 100%);
   border-radius: 16px;
-  padding: 1.5rem;
+  padding: 0.5rem;
   box-shadow: 0 15px 30px rgba(0,0,0,0.5), 0 0 30px rgba(57, 255, 20, 0.15);
   transform: rotateY(12deg) translateZ(20px);
   border: 1px solid var(--glass-border);
@@ -433,7 +433,7 @@ p { color: var(--text-secondary); }
 }
 
 .card-brand {
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: bold;
   background: linear-gradient(90deg, var(--neon-green), #39ff14);
   -webkit-background-clip: text;
